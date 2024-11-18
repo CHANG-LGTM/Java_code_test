@@ -1,3 +1,17 @@
+🚀My Skills🚀<br>
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lch)]
+
+
+
+
 # 자바 코드 연습과 프로젝트 완성!
 
 이 프로젝트는 **AWS 풀스택 수업과정**의 일환으로, 기초적인 **자바 코드 연습**과 이를 활용한 **프로젝트 구현**을 목표로 합니다. 비전공자인 제가 자바를 배우면서 진행한 다양한 코드 연습과 그 연계를 통해 실력을 다지고, 최종적으로 프로젝트를 완성하는 과정을 기록한 리포지토리입니다.
